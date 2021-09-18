@@ -1,6 +1,6 @@
 # About
 
-Faduma Khalif is a 4th year undergraduate at MIT studying computation and cognition and concentrating in design. She likes to explore the intersection of AI and Human-Centered Design. Outside of class and the studio, she is involved with varying sustainability and community focused endeavors.
+I'm a 4th year undergraduate at MIT studying computation and cognition and concentrating in design. I like to explore the intersection of AI and Human-Centered Design, and am an MIT Arts Scholar. Outside of class and the studio, I'm involved with varying sustainability and community focused endeavors.
 
 # Work
 
