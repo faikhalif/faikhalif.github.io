@@ -11,7 +11,8 @@ Within the world of dancing games, we found that there is a large issue of lack 
 
 ## Object Detection Under Settings of Occlusion
 We want to understand how similar do certain computer vision models fare with the task of object detection under settings of occlusion compared to human subjects. We believe that human inference plays an important role when it comes to dealing with uncertainty in visual tasks and are consequently well equipped to handle ill-posed visual problems. Our findings confirm that humans quantitatively perform in a superior manner to the state of the art CNNs with an average accuracy four times greater than the most accurate CNN tested. Our results also indicate that human inference tends to classify with greater rates of confidence. We hope that gaining insight into the robustness of the human visual system will lead to more conclusions on human inference in the future. <br/>
-
+<img src="1occ.PNG" alt="hi" class="inline"/><img src="1occ1.PNG" alt="hi" class="inline"/>
+<img src="1occ2.PNG" alt="hi" class="inline"/><img src="1occ3.PNG" alt="hi" class="inline"/>
 
 ## SongExplorer
 In this project we utilized a classifier to study the behavioral evolution behind varying fly courtship songs. You can read more here: [Link](https://www.biorxiv.org/content/10.1101/2021.03.26.437280v1) <br/>
