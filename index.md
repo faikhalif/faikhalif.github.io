@@ -15,7 +15,7 @@ We want to understand how similar do certain computer vision models fare with th
 
 ## SongExplorer
 In this project we utilized a classifier to study the behavioral evolution behind varying fly courtship songs. You can read more here: [Link](https://www.biorxiv.org/content/10.1101/2021.03.26.437280v1) <br/>
-<img src="flies.png" alt="hi" class="inline"/>
+<img src="flies.PNG" alt="hi" class="inline"/>
 
 
 ## Deep Neural Network: Like/Dislike Facial Feature Detection
