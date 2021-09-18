@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Fai Khalif
 
-You can use the [editor on GitHub](https://github.com/faikhalif/faikhalif.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Faduma Khalif is a 4th year undergraduate at MIT studying computation and cognition and concentrating in design. She likes to explore the intersection of AI and Human-Centered Design. Outside of class and the studio, she is involved with varying sustainability and community focused endeavors.
 
 ### Markdown
 
