@@ -1,17 +1,13 @@
-## Fai Khalif
+## About
 
 Faduma Khalif is a 4th year undergraduate at MIT studying computation and cognition and concentrating in design. She likes to explore the intersection of AI and Human-Centered Design. Outside of class and the studio, she is involved with varying sustainability and community focused endeavors.
 
-### Markdown
+### Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
+# DanceScapes
+## Object Detection Under Settings of Occlusion
+### SongExplorer
+#### Deep Neural Network: Like/Dislike Facial Feature Detection
 
 - Bulleted
 - List
